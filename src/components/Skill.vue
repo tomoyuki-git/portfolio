@@ -9,7 +9,7 @@
 import Skill from '@/components/Skill.vue'
 
 export default {
-  name: 'Skill',
+  name: 'skill',
   components: {
     Skill
   }
